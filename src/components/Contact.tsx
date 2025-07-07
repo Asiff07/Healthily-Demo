@@ -54,11 +54,11 @@ const Contact = () => {
                 </div>
                 <div className="text-center">
                   <h4 className="text-xl font-semibold text-gray-900 mb-1">Email</h4>
-                  <ul className="text-gray-600 text-lg space-y-1">
+                  <ul className="text-gray-600 text-sm md:text-base space-y-1 break-words">
                     <li>sumanto.roy@stu.adamasuniversity.ac.in</li>
                     <li>anurag1.biswas@stu.adamasuniversity.ac.in</li>
                     <li>soumyadeep.das@stu.adamasuniversity.ac.in</li>
-                    <li>sk.asifahmed@stu.adamasuniversity.ac.in</li>
+                    <li>sk.asifahmad@stu.adamasuniversity.ac.in</li>
                   </ul>
                 </div>
               </motion.div>
