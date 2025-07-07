@@ -17,7 +17,7 @@ const Contact = () => {
             Get in Touch
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Interested in learning more about Healthily or partnering with us? 
+            Interested in learning more about Healthily or partnering with us?
             We'd love to hear from you and discuss how we can work together.
           </p>
         </motion.div>
@@ -36,7 +36,7 @@ const Contact = () => {
                 Let's Start a Conversation
               </h3>
               <p className="text-gray-600 text-lg">
-                Whether you're a healthcare provider, investor, or potential partner, 
+                Whether you're a healthcare provider, investor, or potential partner,
                 we're excited to explore how Healthily can make a difference in your community.
               </p>
             </div>
@@ -54,7 +54,12 @@ const Contact = () => {
                 </div>
                 <div className="text-center">
                   <h4 className="text-xl font-semibold text-gray-900 mb-1">Email</h4>
-                  <p className="text-gray-600 text-lg">sumanto.roy@stu.adamasuniversity.ac.in</p>
+                  <ul className="text-gray-600 text-lg space-y-1">
+                    <li>sumanto.roy@stu.adamasuniversity.ac.in</li>
+                    <li>anurag1.biswas@stu.adamasuniversity.ac.in</li>
+                    <li>soumyadeep.das@stu.adamasuniversity.ac.in</li>
+                    <li>sk.asifahmed@stu.adamasuniversity.ac.in</li>
+                  </ul>
                 </div>
               </motion.div>
 
@@ -86,7 +91,7 @@ const Contact = () => {
                 </div>
                 <div className="text-center">
                   <h4 className="text-xl font-semibold text-gray-900 mb-1">Location</h4>
-                  <p className="text-gray-600 text-lg">Adamas University, Barasat, Kolkata</p>
+                  <p className="text-gray-600 text-lg">Kolkata, West Bengal</p>
                 </div>
               </motion.div>
             </div>
